@@ -33,7 +33,7 @@ echo $current
         exit 0
         fi
     else
-        echo "\nFailed to Kill process $name" 
+        echo -e "\nFailed to Kill process $name" 
         echo -e "\nMay be Invalid Process Name" 
         exit 1
     fi
