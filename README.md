@@ -6,4 +6,4 @@ $sh killprocess/terminate.sh
 Process: xxxx
 killat: 10            
  ```
-### [Note: time shouls be in seconds only, like for 2min mention as 120]
+### [Note: time should be in seconds only, i.e for 2min mention as 120]
